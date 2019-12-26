@@ -1,0 +1,335 @@
+	geneId	geneSymbol	DSI	DPI	diseaseId	diseaseName	diseaseType	diseaseClass	diseaseSemanticType	score	EI	YearInitial	YearFinal	NofPmids	NofSnps	source
+343	10	NAT2	0.466	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.34	0.5	1995.0	2009.0	4	0	BEFREE;CTD_human
+1871	31	ACACA	0.552	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+6612	142	PARP1	0.43200000000000005	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.32	1.0	2011.0	2011.0	2	0	BEFREE;CTD_human
+8831	182	JAG1	0.467	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2001.0	2001.0	1	0	BEFREE
+11117	207	AKT1	0.355	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+12254	214	ALCAM	0.562	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+13335	238	ALK	0.44799999999999995	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+16273	302	ANXA2	0.485	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2010.0	2010.0	1	0	CTD_human
+17229	324	APC	0.397	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+18602	335	APOA1	0.46299999999999997	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+22628	367	AR	0.38	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+25462	445	ASS1	0.5579999999999999	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+25817	467	ATF3	0.517	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+31605	595	CCND1	0.365	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2013.0	2013.0	1	0	BEFREE
+32440	596	BCL2	0.312	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2006.0	2010.0	2	0	BEFREE;CTD_human
+33039	598	BCL2L1	0.47100000000000003	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2002.0	2010.0	2	0	BEFREE
+36022	650	BMP2	0.491	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1999.0	1999.0	1	0	BEFREE
+37572	672	BRCA1	0.41	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2015.0	2017.0	2	0	BEFREE
+41155	735	C9	0.652	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+42978	794	CALB2	0.642	0.379	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.35	1.0	2001.0	2013.0	6	0	BEFREE;CTD_human
+45022	834	CASP1	0.46799999999999997	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2015.0	2016.0	2	0	BEFREE
+45921	841	CASP8	0.44299999999999995	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+46925	847	CAT	0.397	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	1.0	2011.0	2015.0	3	0	BEFREE
+49859	894	CCND2	0.519	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2001.0	2001.0	1	0	BEFREE
+52503	943	TNFRSF8	0.516	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+54261	959	CD40LG	0.447	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2003.0	2003.0	1	0	BEFREE
+54646	960	CD44	0.389	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2017.0	2017.0	1	0	BEFREE
+54990	963	CD53	0.607	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2000.0	2000.0	1	0	BEFREE
+56056	978	CDA	0.611	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2012.0	2012.0	1	0	BEFREE
+56977	999	CDH1	0.43200000000000005	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2005.0	2012.0	2	0	BEFREE
+57212	1001	CDH3	0.604	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+57857	1017	CDK2	0.478	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1996.0	1996.0	1	0	BEFREE
+58103	1019	CDK4	0.449	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1995.0	1998.0	2	0	BEFREE
+58431	1021	CDK6	0.508	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+58882	1026	CDKN1A	0.415	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2001.0	2009.0	2	0	BEFREE;CTD_human
+59217	1027	CDKN1B	0.424	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2007.0	2009.0	2	0	BEFREE
+60104	1029	CDKN2A	0.321	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.4	1.0	1994.0	2017.0	24	0	BEFREE;CTD_human
+60680	1030	CDKN2B	0.43799999999999994	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	0.666666666666667	1995.0	2010.0	3	0	BEFREE
+61005	1033	CDKN3	0.518	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1996.0	1996.0	1	0	BEFREE
+72952	1303	COL12A1	0.6759999999999999	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+76120	1385	CREB1	0.494	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+79187	1435	CSF1	0.51	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	1989.0	2015.0	2	0	BEFREE;CTD_human
+79873	1437	CSF2	0.35600000000000004	0.966	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1989.0	1998.0	2	0	BEFREE
+80380	1440	CSF3	0.42100000000000004	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1989.0	1989.0	1	0	BEFREE
+81210	1465	CSRP1	0.696	0.379	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+82406	1490	CTGF	0.44299999999999995	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2012.0	2013.0	2	0	BEFREE
+83278	1499	CTNNB1	0.41700000000000004	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.32	1.0	2001.0	2014.0	3	0	BEFREE;CTD_human
+84624	1523	CUX1	0.52	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+85657	1543	CYP1A1	0.45799999999999996	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2006.0	2006.0	1	0	BEFREE
+88672	1588	CYP19A1	0.48200000000000004	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+90016	1612	DAPK1	0.513	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+90669	1633	DCK	0.614	0.483	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2012.0	2012.0	1	0	BEFREE
+92475	1654	DDX3X	0.607	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+97878	1803	DPP4	0.5	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2007.0	2014.0	2	0	BEFREE
+103637	1917	EEF1A2	0.51	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2013.0	2013.0	1	0	BEFREE
+104491	1950	EGF	0.386	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	1.0	1989.0	2011.0	3	0	BEFREE
+105315	1956	EGFR	0.325	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.37	0.7142857142857142	2005.0	2016.0	8	0	BEFREE;CTD_human
+106418	1969	EPHA2	0.526	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	1.0	2007.0	2012.0	3	0	BEFREE
+110253	2048	EPHB2	0.425	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	1.0	2012.0	2015.0	3	0	BEFREE
+110601	2052	EPHX1	0.51	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2006.0	2006.0	1	0	BEFREE;CTD_human
+111044	2056	EPO	0.425	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2008.0	2008.0	1	0	BEFREE
+111234	2057	EPOR	0.555	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2008.0	2008.0	1	0	BEFREE
+112551	2067	ERCC1	0.46299999999999997	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2011.0	2012.0	2	0	BEFREE
+112874	2068	ERCC2	0.447	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+114868	2099	ESR1	0.355	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2005.0	2008.0	2	0	BEFREE
+115337	2100	ESR2	0.445	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+118519	2152	F3	0.45799999999999996	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2000.0	2000.0	1	0	BEFREE
+119178	2158	F9	0.511	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+122056	2202	EFEMP1	0.5720000000000001	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+123311	2220	FCN2	0.584	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+124389	2247	FGF2	0.40399999999999997	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+125066	2254	FGF9	0.5770000000000001	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+127858	2272	FHIT	0.45	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+129419	2305	FOXM1	0.484	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2013.0	2013.0	2	0	BEFREE
+130344	2315	MLANA	0.648	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+131422	2321	FLT1	0.45299999999999996	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2001.0	2001.0	1	0	BEFREE
+132594	2335	FN1	0.39899999999999997	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+132902	2348	FOLR1	0.557	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+132982	2352	FOLR3	0.8340000000000001	0.172	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+134212	2475	MTOR	0.39899999999999997	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+134858	2495	FTH1	0.627	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+137088	2551	GABPA	0.45399999999999996	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+145300	2719	GPC3	0.502	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2000.0	2000.0	1	0	BEFREE
+145636	2720	GLB1	0.457	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1994.0	1994.0	1	0	BEFREE
+146411	2736	GLI2	0.504	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+149689	2833	CXCR3	0.48100000000000004	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+149862	2850	GPR27	1.0	0.069	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+149989	2861	GPR37	0.799	0.24100000000000002	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+154237	2944	GSTM1	0.40299999999999997	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.34	0.75	1995.0	2012.0	4	0	BEFREE;CTD_human
+154849	2950	GSTP1	0.406	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+155235	2952	GSTT1	0.419	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2006.0	2012.0	2	0	BEFREE
+158679	3059	HCLS1	0.614	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+160492	3082	HGF	0.39399999999999996	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	1998.0	2015.0	2	0	BEFREE;CTD_human
+165180	3135	HLA-G	0.511	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2006.0	2006.0	1	0	BEFREE
+165632	3146	HMGB1	0.433	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+175246	3371	TNC	0.475	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2003.0	2003.0	1	0	BEFREE
+175957	3383	ICAM1	0.386	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1996.0	1996.0	1	0	BEFREE
+176105	3384	ICAM2	0.7070000000000001	0.276	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+177297	3425	IDUA	0.5579999999999999	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2017.0	2017.0	1	0	BEFREE
+177790	3438	IFN1@	0.624	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1993.0	1993.0	1	0	BEFREE
+178087	3439	IFNA1	0.40299999999999997	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1993.0	1993.0	1	0	BEFREE
+178377	3440	IFNA2	0.45899999999999996	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1993.0	1993.0	1	0	BEFREE
+178777	3447	IFNA13	0.40299999999999997	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1993.0	1993.0	1	0	BEFREE
+178927	3451	IFNA17	0.672	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1993.0	1993.0	1	0	BEFREE
+179903	3458	IFNG	0.32299999999999995	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.33	1.0	1997.0	2015.0	4	0	BEFREE;CTD_human
+180821	3479	IGF1	0.355	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1995.0	1995.0	1	0	BEFREE
+181755	3481	IGF2	0.39899999999999997	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1995.0	1995.0	1	0	BEFREE
+182601	3486	IGFBP3	0.46399999999999997	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+184434	3552	IL1A	0.366	0.9309999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2015.0	2016.0	2	0	BEFREE;CTD_human
+185301	3553	IL1B	0.312	0.9309999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	1.0	1989.0	2016.0	3	0	BEFREE
+186632	3558	IL2	0.373	0.9309999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1998.0	2000.0	2	0	BEFREE
+187050	3559	IL2RA	0.419	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+187256	3560	IL2RB	0.545	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+187492	3562	IL3	0.523	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+188009	3565	IL4	0.364	0.9309999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+189466	3569	IL6	0.287	0.966	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	1995.0	2015.0	2	0	BEFREE;CTD_human
+191020	3576	CXCL8	0.342	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+193155	3593	IL12B	0.506	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+193575	3596	IL13	0.42100000000000004	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1996.0	1996.0	1	0	BEFREE
+193736	3598	IL13RA2	0.604	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+194995	3606	IL18	0.40399999999999997	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+195255	3611	ILK	0.534	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+196071	3627	CXCL10	0.43700000000000006	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+200491	3692	EIF6	0.713	0.414	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+202045	3725	JUN	0.473	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+205269	3791	KDR	0.423	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	1.0	2001.0	2009.0	3	0	BEFREE
+206303	3815	KIT	0.39399999999999996	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+218226	4049	LTA	0.46299999999999997	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+218436	4052	LTBP1	0.72	0.379	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+218487	4053	LTBP2	0.611	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+218546	4054	LTBP3	0.63	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+219653	4077	NBR1	0.596	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+220049	4087	SMAD2	0.496	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2011.0	2011.0	1	0	BEFREE
+223688	4162	MCAM	0.5720000000000001	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.5		2013.0	2014.0	2	0	CTD_human;RGD
+224298	4179	CD46	0.529	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+224583	4192	MDK	0.524	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.32	1.0	2010.0	2014.0	3	0	BEFREE;CTD_human
+224899	4193	MDM2	0.396	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.04	0.75	1996.0	2016.0	4	0	BEFREE
+227085	4233	MET	0.405	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.34	1.0	2001.0	2016.0	5	0	BEFREE;CTD_human
+228740	4282	MIF	0.457	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+228900	4283	CXCL9	0.532	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+231715	4313	MMP2	0.373	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2003.0	2003.0	1	0	BEFREE
+233111	4318	MMP9	0.33899999999999997	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+233799	4322	MMP13	0.479	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+234062	4323	MMP14	0.466	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+238800	4513	COX2	0.397	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+242694	4582	MUC1	0.429	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2008.0	2013.0	2	0	BEFREE;CTD_human
+250601	4771	NF2	0.511	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.33	1.0	2003.0	2017.0	8	0	BEFREE;CTD_human
+251208	4780	NFE2L2	0.42	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+252768	4803	NGF	0.426	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2004.0	2015.0	2	0	BEFREE;CTD_human
+253014	4804	NGFR	0.508	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+255166	4846	NOS3	0.401	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2001.0	2001.0	1	0	BEFREE
+256113	4853	NOTCH2	0.474	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+265307	5054	SERPINE1	0.384	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+269859	5154	PDGFA	0.542	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1988.0	1995.0	2	0	BEFREE
+270017	5155	PDGFB	0.514	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1991.0	1997.0	2	0	BEFREE
+270919	5163	PDK1	0.5820000000000001	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+274120	5228	PGF	0.52	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+274934	5243	ABCB1	0.371	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1998.0	1998.0	1	0	BEFREE
+275931	5265	SERPINA1	0.45299999999999996	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1994.0	1994.0	1	0	BEFREE
+276065	5267	SERPINA4	0.652	0.586	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+277058	5290	PIK3CA	0.341	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2010.0	2014.0	2	0	BEFREE
+277711	5291	PIK3CB	0.389	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2010.0	2014.0	2	0	BEFREE
+278303	5293	PIK3CD	0.386	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2010.0	2014.0	2	0	BEFREE
+278793	5294	PIK3CG	0.385	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2010.0	2014.0	2	0	BEFREE
+283017	5347	PLK1	0.503	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+283578	5361	PLXNA1	0.743	0.276	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+289535	5537	PPP6C	0.743	0.172	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+292682	5594	MAPK1	0.387	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2012.0	2015.0	2	0	BEFREE
+293096	5595	MAPK3	0.429	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2008.0	2008.0	1	0	BEFREE
+293277	5598	MAPK7	0.614	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2013.0	2015.0	2	0	BEFREE
+297018	5663	PSEN1	0.49	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2016.0	2016.0	1	0	BEFREE
+298828	5727	PTCH1	0.435	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+299554	5728	PTEN	0.33399999999999996	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+301404	5743	PTGS2	0.33799999999999997	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+303679	5792	PTPRF	0.659	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+306492	5887	RAD23B	0.6629999999999999	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+307162	5894	RAF1	0.462	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+311135	5972	REN	0.423	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+311931	5980	REV3L	0.648	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+314399	6098	ROS1	0.493	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+316735	6232	RPS27	0.652	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2017.0	2017.0	1	0	BEFREE
+317211	6240	RRM1	0.584	0.483	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+317490	6256	RXRA	0.584	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+317818	6262	RYR2	0.575	0.414	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+321145	6320	CLEC11A	0.72	0.414	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+323503	6348	CCL3	0.522	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+323919	6352	CCL5	0.429	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2015.0	2015.0	1	0	BEFREE;CTD_human
+324066	6354	CCL7	0.573	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+324204	6356	CCL11	0.586	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+324849	6368	CCL23	0.785	0.345	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+325400	6382	SDC1	0.49700000000000005	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2014.0	2016.0	2	0	BEFREE;CTD_human
+325815	6387	CXCL12	0.42100000000000004	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2009.0	2015.0	2	0	BEFREE;CTD_human
+331758	6513	SLC2A1	0.441	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2011.0	2013.0	2	0	BEFREE;CTD_human
+335816	6584	SLC22A5	0.6629999999999999	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+336292	6595	SMARCA2	0.5589999999999999	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+337414	6608	SMO	0.52	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+339728	6648	SOD2	0.396	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2011.0	2011.0	1	0	CTD_human
+343094	6696	SPP1	0.391	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+344733	6739	SSAV1	0.6759999999999999	0.414	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+345749	6768	ST14	0.55	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+346672	6774	STAT3	0.358	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2007.0	2015.0	2	0	BEFREE
+349741	6850	SYK	0.564	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2008.0	2008.0	1	0	BEFREE
+353151	6916	TBXAS1	0.6629999999999999	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+354357	6935	ZEB1	0.501	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2012.0	2012.0	1	0	BEFREE
+356899	7018	TF	0.5479999999999999	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+357524	7029	TFDP2	0.72	0.345	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+359297	7040	TGFB1	0.336	0.9309999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1996.0	1996.0	1	0	BEFREE
+359738	7042	TGFB2	0.48	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+361467	7056	THBD	0.505	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2011.0	2016.0	2	0	BEFREE
+363151	7077	TIMP2	0.467	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+367000	7124	TNF	0.263	0.966	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1989.0	1989.0	1	0	BEFREE
+368242	7133	TNFRSF1B	0.467	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+368668	7145	TNS1	0.621	0.586	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2002.0	2002.0	1	0	BEFREE
+368757	7148	TNXB	0.598	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+370066	7157	TP53	0.251	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.4	0.9230769	1992.0	2016.0	14	0	BEFREE;CTD_human
+373841	7248	TSC1	0.40299999999999997	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1999.0	1999.0	1	0	BEFREE
+374892	7272	TTK	0.624	0.483	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2017.0	2017.0	1	0	BEFREE
+376312	7295	TXN	0.503	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.32	1.0	2006.0	2016.0	3	0	BEFREE;CTD_human
+376772	7298	TYMS	0.457	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+380612	7412	VCAM1	0.466	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1996.0	1996.0	1	0	BEFREE
+382365	7422	VEGFA	0.298	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.05	0.6	2001.0	2012.0	5	0	BEFREE
+382921	7424	VEGFC	0.501	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2003.0	2003.0	1	0	BEFREE
+383644	7431	VIM	0.43200000000000005	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2007.0	2013.0	2	0	BEFREE;CTD_human
+386036	7473	WNT3	0.5670000000000001	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+386947	7490	WT1	0.444	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.42	1.0	1995.0	2013.0	3	0	BEFREE;CTD_human;HPO
+388030	7515	XRCC1	0.449	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2011.0	2013.0	2	1	BEFREE
+391589	7852	CXCR4	0.391	0.897	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+391946	7869	SEMA3B	0.672	0.414	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+394583	8081	AD5	0.752	0.276	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+398491	8314	BAP1	0.488	0.586	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.4	1.0	2011.0	2017.0	23	0	BEFREE;CTD_human
+401436	8487	GEMIN2	0.633	0.586	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+403284	8570	KHSRP	0.602	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+403320	8572	PDLIM4	0.6629999999999999	0.379	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+405965	8661	EIF3A	0.619	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2006.0	2006.0	1	0	BEFREE
+407622	8743	TNFSF10	0.44	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2006.0	2006.0	1	0	BEFREE
+409688	8817	FGF18	0.701	0.345	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+410131	8828	NRP2	0.5589999999999999	0.483	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+410274	8829	NRP1	0.521	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+410580	8837	CFLAR	0.526	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+412493	8877	SPHK1	0.524	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2013.0	2013.0	1	0	BEFREE
+413697	8915	BCL10	0.505	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2001.0	2001.0	1	0	BEFREE;CTD_human
+417191	9110	MTMR4	1.0	0.069	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+417321	9113	LATS1	0.602	0.379	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2016.0	2016.0	1	0	BEFREE
+417983	9134	CCNE2	0.659	0.345	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+418652	9169	SCAF11	0.63	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+419033	9180	OSMR	0.648	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+421205	9260	PDLIM7	0.521	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+422549	9351	SLC9A3R2	0.63	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2007.0	2007.0	1	0	BEFREE
+426955	9509	ADAMTS2	0.63	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+428982	9582	APOBEC3B	0.611	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2012.0	2012.0	1	0	BEFREE
+430992	9706	ULK2	0.857	0.069	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+431959	9759	HDAC4	0.5579999999999999	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+432629	9790	BMS1	0.5670000000000001	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2010.0	2014.0	2	0	BEFREE
+433392	9839	ZEB2	0.513	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2007.0	2012.0	2	0	BEFREE
+433546	9843	HEPH	0.735	0.31	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+433853	9869	SETDB1	0.672	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+441690	10232	MSLN	0.565	0.483	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.36	0.8333333	2000.0	2016.0	8	0	BEFREE;CTD_human
+444590	10371	SEMA3A	0.604	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+445319	10401	PIAS3	0.636	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+445632	10413	YAP1	0.514	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2011.0	2015.0	2	0	BEFREE
+447387	10495	ENOX2	0.785	0.172	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+447498	10505	SEMA4F	0.8859999999999999	0.10300000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+447958	10519	CIB1	0.47700000000000004	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2007.0	2009.0	2	0	BEFREE
+449399	10563	CXCL13	0.552	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+449628	10573	MRPL28	0.5429999999999999	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1995.0	2010.0	2	0	BEFREE
+450987	10628	TXNIP	0.552	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+451080	10630	PDPN	0.5539999999999999	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2013.0	2013.0	1	0	CTD_human
+451312	10643	IGF2BP3	0.619	0.379	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2014.0	2014.0	1	0	CTD_human
+455590	10850	CCL27	0.614	0.586	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+455767	10855	HPSE	0.46399999999999997	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2005.0	2010.0	2	0	BEFREE
+457323	10923	SUB1	0.526	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1995.0	2010.0	2	0	BEFREE
+457527	10935	PRDX3	0.614	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2013.0	2015.0	2	0	BEFREE
+459033	11009	IL24	0.547	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+461446	11168	PSIP1	0.555	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+461924	11186	RASSF1	0.429	0.7929999999999999	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+464496	22820	COPG1	1.0	0.069	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.31	1.0	2016.0	2016.0	1	0	BEFREE;CTD_human
+466868	22949	PTGR1	0.815	0.138	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+467367	22998	LIMCH1	0.8340000000000001	0.138	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+471401	23286	WWC1	0.6629999999999999	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+474844	23451	SF3B1	0.526	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+479109	23741	EID1	0.857	0.138	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2008.0	2008.0	1	0	BEFREE
+479383	23774	BRD1	0.696	0.345	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+479914	25790	CFAP45	0.9279999999999999	0.138	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+486103	26298	EHF	0.735	0.31	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+486590	26523	AGO1	0.701	0.414	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+486635	26524	LATS2	0.616	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.03	1.0	2011.0	2014.0	3	0	BEFREE
+486972	26585	GREM1	0.602	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+488000	27036	SIGLEC7	0.602	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2004.0	2004.0	1	0	BEFREE
+488929	27122	DKK3	0.555	0.586	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2008.0	2008.0	1	0	BEFREE
+489318	27161	AGO2	0.575	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+493549	29072	SETD2	0.465	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+494016	29107	NXT1	0.5429999999999999	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	1995.0	2010.0	2	0	BEFREE
+494137	29108	PYCARD	0.517	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2017.0	2017.0	1	0	CTD_human
+495085	29801	ZDHHC8	0.799	0.276	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+501342	51083	GAL	0.529	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	1994.0	1994.0	1	0	BEFREE
+501583	51090	PLLP	0.9279999999999999	0.10300000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+508042	51684	SUFU	0.565	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+514324	54726	OTUD4	0.659	0.414	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+519304	55193	PBRM1	0.59	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+519951	55249	YY1AP1	0.562	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2011.0	2015.0	2	0	BEFREE
+525218	55785	FGD6	0.8340000000000001	0.172	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+529564	56920	SEMA3G	0.9279999999999999	0.069	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+530438	56996	SLC12A9	0.465	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+534036	57451	TENM2	0.773	0.276	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+540114	60485	SAV1	0.762	0.276	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2013.0	2013.0	1	0	BEFREE
+549350	79187	FSD1	0.53	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+551572	79718	TBL1XR1	0.5670000000000001	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+556180	80310	PDGFD	0.616	0.483	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+557029	80381	CD276	0.569	0.552	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2011.0	2011.0	1	0	BEFREE
+561087	83856	FSD1L	0.534	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2014.0	2014.0	1	0	BEFREE
+562885	84231	TRAF7	0.8859999999999999	0.10300000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+566818	84962	AJUBA	0.743	0.172	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+570966	92304	SCGB3A1	0.639	0.44799999999999995	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+571819	93621	MRFAP1	0.9279999999999999	0.172	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+572163	94025	MUC16	0.58	0.517	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2009.0	2009.0	1	0	BEFREE
+574251	114548	NLRP3	0.435	0.862	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.02	1.0	2013.0	2016.0	2	0	BEFREE
+580702	133482	SLCO6A1	0.44	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2012.0	2012.0	1	0	BEFREE
+591441	219972	MPEG1	0.672	0.483	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2017.0	2017.0	1	0	BEFREE
+597236	317781	DDX51	0.8859999999999999	0.138	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2016.0	2016.0	1	0	CTD_human
+598399	340719	NANOS1	0.696	0.379	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+600215	373156	GSTK1	0.441	0.828	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	0.0	2012.0	2012.0	1	0	BEFREE
+601235	387509	GPR153	0.8859999999999999	0.10300000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2005.0	2005.0	1	0	BEFREE
+603125	404663	LINC01194	0.5	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+604326	406910	MIR125A	0.5720000000000001	0.69	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+604488	406913	MIR126	0.51	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.35	1.0	2011.0	2016.0	5	0	BEFREE;CTD_human
+608728	406988	MIR205	0.547	0.621	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+609124	406991	MIR21	0.40700000000000003	0.759	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2016.0	2016.0	1	0	BEFREE
+611307	407026	MIR29C	0.5579999999999999	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+611787	407035	MIR31	0.528	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2010.0	2010.0	1	0	BEFREE
+617173	619553	MIR484	0.752	0.24100000000000002	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+619069	693210	MIR625	0.6809999999999999	0.172	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2012.0	2012.0	1	0	BEFREE
+624677	100506965	PWAR6	1.0	0.069	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.3		2015.0	2015.0	1	0	CTD_human
+626381	100862685	ERVK-19	0.573	0.7240000000000001	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
+626463	100862688	ERVK-11	0.575	0.655	C0345967	Malignant mesothelioma	disease	C04;C08	Neoplastic Process	0.01	1.0	2015.0	2015.0	1	0	BEFREE
