@@ -1,11 +1,12 @@
 # Ignore folder named 'dataset'
-dataset/
-disgenet/
-
+./dataset/
+./disgenet/
+./ipynb_checkpoints
 # Ignore all archives
 *.gz
 *.tar 
 *.zip 
-*.tar
+*.tsv
+
 
 
