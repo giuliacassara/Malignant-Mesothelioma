@@ -1,0 +1,110 @@
+,Symbol,Name,ID,UniprotAC
+0,NAT2,N-acetyltransferase 2,10,P11245
+1,PARP1,poly(ADP-ribose) polymerase 1,142,P09874
+2,ANXA2,annexin A2,302,P07355
+3,APOA1,apolipoprotein A1,335,P02647
+4,BCL2,"BCL2, apoptosis regulator",596,P10415
+5,C9,complement C9,735,P02748
+6,CALB2,calbindin 2,794,P22676
+7,TNFRSF8,TNF receptor superfamily member 8,943,P28908
+8,CDK6,cyclin dependent kinase 6,1021,Q00534
+9,CDKN1A,cyclin dependent kinase inhibitor 1A,1026,P38936
+10,CDKN2A,cyclin dependent kinase inhibitor 2A,1029,P42771;Q8N726
+11,COL12A1,collagen type XII alpha 1 chain,1303,Q99715
+12,CSF1,colony stimulating factor 1,1435,P09603
+13,CTNNB1,catenin beta 1,1499,P35222
+14,DDX3X,DEAD-box helicase 3 X-linked,1654,O00571
+15,EGFR,epidermal growth factor receptor,1956,P00533
+16,EPHX1,epoxide hydrolase 1,2052,P07099
+17,F9,coagulation factor IX,2158,P00740
+18,EFEMP1,EGF containing fibulin extracellular matrix protein 1,2202,Q12805
+19,FCN2,ficolin 2,2220,Q15485
+20,FGF9,fibroblast growth factor 9,2254,P31371
+21,MLANA,melan-A,2315,Q16655
+22,FN1,fibronectin 1,2335,P02751
+23,FTH1,ferritin heavy chain 1,2495,P02794
+24,GPR27,G protein-coupled receptor 27,2850,Q9NS67
+25,GPR37,G protein-coupled receptor 37,2861,O15354
+26,GSTM1,glutathione S-transferase mu 1,2944,P09488
+27,HGF,hepatocyte growth factor,3082,P14210
+28,ICAM2,intercellular adhesion molecule 2,3384,P13598
+29,IFNG,interferon gamma,3458,P01579
+30,IL1A,interleukin 1 alpha,3552,P01583
+31,IL2RA,interleukin 2 receptor subunit alpha,3559,P01589
+32,IL3,interleukin 3,3562,P08700
+33,IL4,interleukin 4,3565,P05112
+34,IL6,interleukin 6,3569,P05231
+35,CXCL8,C-X-C motif chemokine ligand 8,3576,P10145
+36,IL12B,interleukin 12B,3593,P29460
+37,ILK,integrin linked kinase,3611,Q13418
+38,KIT,KIT proto-oncogene receptor tyrosine kinase,3815,P10721
+39,LTA,lymphotoxin alpha,4049,P01374
+40,MCAM,melanoma cell adhesion molecule,4162,P43121
+41,MDK,midkine,4192,P21741
+42,MET,"MET proto-oncogene, receptor tyrosine kinase",4233,P08581
+43,MIF,macrophage migration inhibitory factor,4282,P14174
+44,CXCL9,C-X-C motif chemokine ligand 9,4283,Q07325
+45,MUC1,"mucin 1, cell surface associated",4582,P15941
+46,NF2,neurofibromin 2,4771,P35240
+47,NGF,nerve growth factor,4803,P01138
+48,SERPINA4,serpin family A member 4,5267,P29622
+49,PTPRF,"protein tyrosine phosphatase, receptor type F",5792,P10586
+50,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",5894,P04049
+51,RXRA,retinoid X receptor alpha,6256,P19793
+52,RYR2,ryanodine receptor 2,6262,Q92736
+53,CLEC11A,C-type lectin domain containing 11A,6320,Q9Y240
+54,CCL3,C-C motif chemokine ligand 3,6348,P10147
+55,CCL5,C-C motif chemokine ligand 5,6352,P13501
+56,CCL7,C-C motif chemokine ligand 7,6354,P80098
+57,CCL23,C-C motif chemokine ligand 23,6368,P55773
+58,SDC1,syndecan 1,6382,P18827
+59,CXCL12,C-X-C motif chemokine ligand 12,6387,P48061
+60,SLC2A1,solute carrier family 2 member 1,6513,P11166
+61,SLC22A5,solute carrier family 22 member 5,6584,O76082
+62,SMARCA2,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",6595,P51531
+63,SOD2,superoxide dismutase 2,6648,P04179
+64,TF,transferrin,7018,P02787
+65,TFDP2,transcription factor Dp-2,7029,Q14188
+66,TGFB2,transforming growth factor beta 2,7042,P61812
+67,TP53,tumor protein p53,7157,P04637
+68,TXN,thioredoxin,7295,P10599
+69,VIM,vimentin,7431,P08670
+70,WNT3,Wnt family member 3,7473,P56703
+71,WT1,Wilms tumor 1,7490,P19544
+72,BAP1,BRCA1 associated protein 1,8314,Q92560
+73,FGF18,fibroblast growth factor 18,8817,O76093
+74,BCL10,B cell CLL/lymphoma 10,8915,O95999
+75,MTMR4,myotubularin related protein 4,9110,Q9NYA4
+76,CCNE2,cyclin E2,9134,O96020
+77,OSMR,oncostatin M receptor,9180,Q99650
+78,ADAMTS2,ADAM metallopeptidase with thrombospondin type 1 motif 2,9509,O95450
+79,ULK2,unc-51 like autophagy activating kinase 2,9706,Q8IYT8
+80,HDAC4,histone deacetylase 4,9759,P56524
+81,HEPH,hephaestin,9843,Q9BQS7
+82,SETDB1,SET domain bifurcated 1,9869,Q15047
+83,MSLN,mesothelin,10232,Q13421
+84,ENOX2,ecto-NOX disulfide-thiol exchanger 2,10495,Q16206
+85,SEMA4F,ssemaphorin 4F,10505,O95754
+86,CXCL13,C-X-C motif chemokine ligand 13,10563,O43927
+87,PDPN,podoplanin,10630,Q86YL7
+88,IGF2BP3,insulin like growth factor 2 mRNA binding protein 3,10643,O00425
+89,CCL27,C-C motif chemokine ligand 27,10850,Q9Y4X3
+90,COPG1,coatomer protein complex subunit gamma 1,22820,Q9Y678
+91,LIMCH1,LIM and calponin homology domains 1,22998,Q9UPQ0
+92,WWC1,WW and C2 domain containing 1,23286,Q8IX03
+93,SF3B1,splicing factor 3b subunit 1,23451,O75533
+94,CFAP45,cilia and flagella associated protein 45,25790,Q9UL16
+95,AGO1,"argonaute 1, RISC catalytic component",26523,Q9UL18
+96,AGO2,"argonaute 2, RISC catalytic component",27161,Q9UKV8
+97,SETD2,SET domain containing 2,29072,Q9BYW2
+98,PYCARD,PYD and CARD domain containing,29108,Q9ULZ3
+99,PLLP,plasmolipin,51090,Q9Y342
+100,FGD6,"FYVE, RhoGEF and PH domain containing 6",55785,Q6ZV73
+101,TBL1XR1,transducin beta like 1 X-linked receptor 1,79718,Q9BZK7
+102,TRAF7,TNF receptor associated factor 7,84231,Q6Q0C0
+103,DDX51,DEAD-box helicase 51,317781,Q8N8A6
+104,NANOS1,nanos C2HC-type zinc finger 1,340719,Q8WY41
+105,MIR125A,microRNA 125a,406910,
+106,MIR126,microRNA 126,406913,
+107,MIR484,microRNA 484,619553,
+108,PWAR6,Prader Willi/Angelman region RNA 6,100506965,

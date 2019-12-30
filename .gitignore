@@ -1,0 +1,11 @@
+# Ignore folder named 'dataset'
+dataset/
+disgenet/
+
+# Ignore all archives
+*.gz
+*.tar 
+*.zip 
+*.tar
+
+

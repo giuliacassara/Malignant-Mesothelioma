@@ -1,0 +1,3 @@
+Disease	Disease_id	Variant	Gene	Gene_id	N_diseases_v	DSI_v	DPI_v	Chr	Position	Consequence	Alleles	Class	AF_EXOME	AF_GENOME	Alt_Ref_Genome	Alt_Ref_Exome	Score_vda	EI_vda	N_PMIDs	First_Ref	Last_Ref
+Malignant mesothelioma	C0345967	rs25487	XRCC1	7515	119	0.485	0.679	19	43551574	missense variant	T/C	snp	6.80618e-01	7.20226e-01	T/C	T/C	0.01	1.0	1	2013	2013
+Malignant mesothelioma	C0345967	rs746965070	NBN	4683	1	1.0	0.071	8	89955487	missense variant	T/C	snp	1.19540e-05			T/C	0.01	1.0	1	2013	2013
