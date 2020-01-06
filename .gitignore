@@ -1,4 +1,5 @@
 # Ignore folder named 'dataset'
+./uniprot/
 ./dataset/
 ./disgenet/
 ./ipynb_checkpoints
