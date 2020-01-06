@@ -1,8 +1,8 @@
 # Ignore folder named 'dataset'
-./uniprot/
-./dataset/
-./disgenet/
-./ipynb_checkpoints
+uniprot
+dataset
+disgenet
+ipynb_checkpoints
 # Ignore all archives
 *.gz
 *.tar 
