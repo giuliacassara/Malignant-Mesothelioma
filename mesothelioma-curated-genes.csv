@@ -1,105 +1,105 @@
 ,Symbol,Name,ID,UniprotAC,function
-0,NAT2,N-acetyltransferase 2,10,P11245,Participates in the detoxification of a plethora of hydrazine and arylamine drug
-1,PARP1,poly(ADP-ribose) polymerase 1,142,Q6N069,Auxillary subunit of the N-terminal acetyltransferase A (NatA) complex which displays alpha (N-terminal) acetyltransferase activit
-2,ANXA2,annexin A2,302,Q9H2H9,Functions as a sodium-dependent amino acid transporte
-3,APOA1,apolipoprotein A1,335,P09874,"Poly-ADP-ribosyltransferase that mediates poly-ADP-ribosylation of proteins and plays a key role in DNA repair (PubMed:17177976, PubMed:18172500, PubMed:19344625, PubMed:19661379, PubMed:23230272, PubMed:25043379, PubMed:26344098"
-4,BCL2,"BCL2, apoptosis regulator",596,P07355,Calcium-regulated membrane-binding protein whose affinity for calcium is greatly enhanced by anionic phospholipid
-5,C9,complement C9,735,P02647,Participates in the reverse transport of cholesterol from tissues to the liver for excretion by promoting cholesterol efflux from tissues and by acting as a cofactor for the lecithin cholesterol acyltransferase (LCAT
-6,CALB2,calbindin 2,794,P10415,Suppresses apoptosis in a variety of cell systems including factor-dependent lymphohematopoietic and neural cell
-7,TNFRSF8,TNF receptor superfamily member 8,943,P02748,"Constituent of the membrane attack complex (MAC) that plays a key role in the innate and adaptive immune response by forming pores in the plasma membrane of target cells (PubMed:9634479, PubMed:9212048, PubMed:26841934"
-8,CDK6,cyclin dependent kinase 6,1021,P22676,Calretinin is a calcium-binding protein which is abundant in auditory neuron
-9,CDKN1A,cyclin dependent kinase inhibitor 1A,1026,P28908,Receptor for TNFSF8/CD30L (PubMed:8391931
-10,CDKN2A,cyclin dependent kinase inhibitor 2A,1029,Q00534,Serine/threonine-protein kinase involved in the control of the cell cycle and differentiation; promotes G1/S transitio
-11,COL12A1,collagen type XII alpha 1 chain,1303,P38936,May be involved in p53/TP53 mediated inhibition of cellular proliferation in response to DNA damag
-12,CSF1,colony stimulating factor 1,1435,P42771,Acts as a negative regulator of the proliferation of normal cells by interacting strongly with CDK4 and CDK
-13,CTNNB1,catenin beta 1,1499,Q8N726,Capable of inducing cell cycle arrest in G1 and G2 phase
-14,DDX3X,DEAD-box helicase 3 X-linked,1654,Q99715,"Type XII collagen interacts with type I collagen-containing fibrils, the COL1 domain could be associated with the surface of the fibrils, and the COL2 and NC3 domains may be localized in the perifibrillar matri"
-15,EGFR,epidermal growth factor receptor,1956,P09603,"Cytokine that plays an essential role in the regulation of survival, proliferation and differentiation of hematopoietic precursor cells, especially mononuclear phagocytes, such as macrophages and monocyte"
-16,EPHX1,epoxide hydrolase 1,2052,P35222,Key downstream component of the canonical Wnt signaling pathwa
-17,F9,coagulation factor IX,2158,O00571,Multifunctional ATP-dependent RNA helicas
-18,EFEMP1,EGF containing fibulin extracellular matrix protein 1,2202,P00533,"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses (PubMed:2790960, PubMed:10805725, PubMed:27153536"
-19,FCN2,ficolin 2,2220,P07099,Biotransformation enzyme that catalyzes the hydrolysis of arene and aliphatic epoxides to less reactive and more water soluble dihydrodiols by the trans addition of water (By similarity
-20,FGF9,fibroblast growth factor 9,2254,P00740,"Factor IX is a vitamin K-dependent plasma protein that participates in the intrinsic pathway of blood coagulation by converting factor X to its active form in the presence of Ca(2+) ions, phospholipids, and factor VIII"
-21,MLANA,melan-A,2315,Q12805,"Binds EGFR, the EGF receptor, inducing EGFR autophosphorylation and the activation of downstream signaling pathway"
-22,FN1,fibronectin 1,2335,Q15485,May function in innate immunity through activation of the lectin complement pathwa
-23,FTH1,ferritin heavy chain 1,2495,P31371,"Plays an important role in the regulation of embryonic development, cell proliferation, cell differentiation and cell migratio"
-24,GPR27,G protein-coupled receptor 27,2850,Q16655,Involved in melanosome biogenesis by ensuring the stability of GPR14
-25,GPR37,G protein-coupled receptor 37,2861,P02751,"Fibronectins bind cell surfaces and various compounds including collagen, fibrin, heparin, DNA, and acti"
-26,GSTM1,glutathione S-transferase mu 1,2944,P02794,"Stores iron in a soluble, non-toxic, readily available for"
-27,HGF,hepatocyte growth factor,3082,Q9NS67,Orphan recepto
-28,ICAM2,intercellular adhesion molecule 2,3384,O15354,Receptor for the neuroprotective and glioprotective factor prosaposi
-29,IFNG,interferon gamma,3458,P09488,Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophile
-30,IL1A,interleukin 1 alpha,3552,P14210,"Potent mitogen for mature parenchymal hepatocyte cells, seems to be a hepatotrophic factor, and acts as a growth factor for a broad spectrum of tissues and cell type"
-31,IL2RA,interleukin 2 receptor subunit alpha,3559,P13598,ICAM proteins are ligands for the leukocyte adhesion protein LFA-1 (integrin alpha-L/beta-2
-32,IL3,interleukin 3,3562,P01579,Produced by lymphocytes activated by specific antigens or mitogen
-33,IL4,interleukin 4,3565,P01583,"Produced by activated macrophages, IL-1 stimulates thymocyte proliferation by inducing IL-2 release, B-cell maturation and proliferation, and fibroblast growth factor activit"
-34,IL6,interleukin 6,3569,P01589,Receptor for interleukin-
-35,CXCL8,C-X-C motif chemokine ligand 8,3576,P08700,"Granulocyte/macrophage colony-stimulating factors are cytokines that act in hematopoiesis by controlling the production, differentiation, and function of 2 related white cell populations of the blood, the granulocytes and the monocytes-macrophage"
-36,IL12B,interleukin 12B,3593,P05112,Participates in at least several B-cell activation processes as well as of other cell types (PubMed:3016727
-37,ILK,integrin linked kinase,3611,P05231,Cytokine with a wide variety of biological function
-38,KIT,KIT proto-oncogene receptor tyrosine kinase,3815,P10145,"IL-8 is a chemotactic factor that attracts neutrophils, basophils, and T-cells, but not monocyte"
-39,LTA,lymphotoxin alpha,4049,P29460,"Cytokine that can act as a growth factor for activated T and NK cells, enhance the lytic activity of NK/lymphokine-activated killer cells, and stimulate the production of IFN-gamma by resting PBM"
-40,MCAM,melanoma cell adhesion molecule,4162,Q13418,"Receptor-proximal protein kinase regulating integrin-mediated signal transduction (PubMed:8538749, PubMed:9736715"
-41,MDK,midkine,4192,P10721,"Tyrosine-protein kinase that acts as cell-surface receptor for the cytokine KITLG/SCF and plays an essential role in the regulation of cell survival and proliferation, hematopoiesis, stem cell maintenance, gametogenesis, mast cell development, migration and function, and in melanogenesi"
-42,MET,"MET proto-oncogene, receptor tyrosine kinase",4233,P01374,"Cytokine that in its homotrimeric form binds to TNFRSF1A/TNFR1, TNFRSF1B/TNFBR and TNFRSF14/HVEM (PubMed:9462508"
-43,MIF,macrophage migration inhibitory factor,4282,P43121,"Plays a role in cell adhesion, and in cohesion of the endothelial monolayer at intercellular junctions in vascular tissu"
-44,CXCL9,C-X-C motif chemokine ligand 9,4283,P21741,"Secreted protein that functions as cytokine and growth factor and mediates its signal through cell-surface proteoglycan and non-proteoglycan receptors (PubMed:18469519, PubMed:12573468, PubMed:12122009, PubMed:10212223, PubMed:24458438, PubMed:15466886, PubMed:12084985, PubMed:10772929"
-45,MUC1,"mucin 1, cell surface associated",4582,P08581,Receptor tyrosine kinase that transduces signals from the extracellular matrix into the cytoplasm by binding to hepatocyte growth factor/HGF ligan
-46,NF2,neurofibromin 2,4771,Q9NWH9,"When overexpressed, acts as a general inhibitor of transcription that eventually leads to apoptosi"
-47,NGF,nerve growth factor,4803,P03971,"This glycoprotein, produced by the Sertoli cells of the testis, causes regression of the Muellerian duc"
-48,SERPINA4,serpin family A member 4,5267,P14174,Pro-inflammatory cytokin
-49,PTPRF,"protein tyrosine phosphatase, receptor type F",5792,Q07325,"Cytokine that affects the growth, movement, or activation state of cells that participate in immune and inflammatory respons"
-50,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",5894,P15941,The alpha subunit has cell adhesive propertie
-51,RXRA,retinoid X receptor alpha,6256,P35240,"Probable regulator of the Hippo/SWH (Sav/Wts/Hpo) signaling pathway, a signaling pathway that plays a pivotal role in tumor suppression by restricting proliferation and promoting apoptosi"
-52,RYR2,ryanodine receptor 2,6262,P01138,"Nerve growth factor is important for the development and maintenance of the sympathetic and sensory nervous systems (PubMed:14976160, PubMed:20978020"
-53,CLEC11A,C-type lectin domain containing 11A,6320,P29622,Inhibits human amidolytic and kininogenase activities of tissue kallikrei
-54,CCL3,C-C motif chemokine ligand 3,6348,P10586,Possible cell adhesion recepto
-55,CCL5,C-C motif chemokine ligand 5,6352,P04049,"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformatio"
-56,CCL7,C-C motif chemokine ligand 7,6354,P19793,"Receptor for retinoic acid that acts as a transcription factor (PubMed:11162439, PubMed:11915042"
-57,CCL23,C-C motif chemokine ligand 23,6368,Q92736,Calcium channel that mediates the release of Ca(2+) from the sarcoplasmic reticulum into the cytoplasm and thereby plays a key role in triggering cardiac muscle contractio
-58,SDC1,syndecan 1,6382,Q9Y240,Promotes osteogenesis by stimulating the differentiation of mesenchymal progenitors into mature osteoblasts (PubMed:27976999
-59,CXCL12,C-X-C motif chemokine ligand 12,6387,P10147,Monokine with inflammatory and chemokinetic propertie
-60,SLC2A1,solute carrier family 2 member 1,6513,P13501,"Chemoattractant for blood monocytes, memory T-helper cells and eosinophil"
-61,SLC22A5,solute carrier family 22 member 5,6584,P80098,"Chemotactic factor that attracts monocytes and eosinophils, but not neutrophil"
-62,SMARCA2,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",6595,P55773,"Shows chemotactic activity for monocytes, resting T-lymphocytes, and neutrophils, but not for activated lymphocyte"
-63,SOD2,superoxide dismutase 2,6648,P18827,Cell surface proteoglycan that bears both heparan sulfate and chondroitin sulfate and that links the cytoskeleton to the interstitial matri
-64,TF,transferrin,7018,P48061,Chemoattractant active on T-lymphocytes and monocytes but not neutrophil
-65,TFDP2,transcription factor Dp-2,7029,P11166,"Facilitative glucose transporter, which is responsible for constitutive or basal glucose uptake (PubMed:18245775, PubMed:19449892, PubMed:25982116, PubMed:27078104, PubMed:10227690"
-66,TGFB2,transforming growth factor beta 2,7042,O76082,"Sodium-ion dependent, high affinity carnitine transporte"
-67,TP53,tumor protein p53,7157,P51531,Involved in transcriptional activation and repression of select genes by chromatin remodeling (alteration of DNA-nucleosome topology
-68,TXN,thioredoxin,7295,P04179,Destroys superoxide anion radicals which are normally produced within the cells and which are toxic to biological system
-69,VIM,vimentin,7431,P02787,"Transferrins are iron binding transport proteins which can bind two Fe(3+) ions in association with the binding of an anion, usually bicarbonat"
-70,WNT3,Wnt family member 3,7473,Q14188,Can stimulate E2F-dependent transcriptio
-71,WT1,Wilms tumor 1,7490,P61812,"Transforming growth factor beta-2 proprotein: Precursor of the Latency-associated peptide (LAP) and Transforming growth factor beta-2 (TGF-beta-2) chains, which constitute the regulatory and active subunit of TGF-beta-2, respectivel"
-72,BAP1,BRCA1 associated protein 1,8314,P04637,Acts as a tumor suppressor in many tumor types; induces growth arrest or apoptosis depending on the physiological circumstances and cell typ
-73,FGF18,fibroblast growth factor 18,8817,P10599,Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reaction
-74,BCL10,B cell CLL/lymphoma 10,8915,P08670,"Vimentins are class-III intermediate filaments found in various non-epithelial cells, especially mesenchymal cell"
-75,MTMR4,myotubularin related protein 4,9110,P56703,Ligand for members of the frizzled family of seven transmembrane receptors (Probable
-76,CCNE2,cyclin E2,9134,P19544,Transcription factor that plays an important role in cellular development and cell survival (PubMed:7862533
-77,OSMR,oncostatin M receptor,9180,Q92560,"Deubiquitinating enzyme that plays a key role in chromatin by mediating deubiquitination of histone H2A and HCFC1 (PubMed:12485996, PubMed:18757409, PubMed:20436459, PubMed:25451922"
-78,ADAMTS2,ADAM metallopeptidase with thrombospondin type 1 motif 2,9509,Q96QZ7,May play a role as scaffolding protein at cell-cell junction
-79,ULK2,unc-51 like autophagy activating kinase 2,9706,Q99496,"E3 ubiquitin-protein ligase that mediates monoubiquitination of 'Lys-119' of histone H2A (H2AK119Ub), thereby playing a central role in histone code and gene regulation (PubMed:15386022, PubMed:16359901, PubMed:25519132, PubMed:21772249, PubMed:25355358, PubMed:26151332"
-80,HDAC4,histone deacetylase 4,9759,O76093,"Plays an important role in the regulation of cell proliferation, cell differentiation and cell migratio"
-81,HEPH,hephaestin,9843,O95999,Involved in adaptive immune response (PubMed:25365219
-82,SETDB1,SET domain bifurcated 1,9869,Q9NYA4,"Dephosphorylates proteins phosphorylated on Ser, Thr, and Tyr residues and low molecular weight phosphatase substrate para-nitrophenylphosphat"
-83,MSLN,mesothelin,10232,O96020,Essential for the control of the cell cycle at the late G1 and early S phas
-84,ENOX2,ecto-NOX disulfide-thiol exchanger 2,10495,Q99650,Associates with IL31RA to form the IL31 recepto
-85,SEMA4F,ssemaphorin 4F,10505,O95450,Cleaves the propeptides of type I and II collagen prior to fibril assembly (By similarity
-86,CXCL13,C-X-C motif chemokine ligand 13,10563,Q8IYT8,Serine/threonine-protein kinase involved in autophagy in response to starvatio
-87,PDPN,podoplanin,10630,P56524,"Responsible for the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4"
-88,IGF2BP3,insulin like growth factor 2 mRNA binding protein 3,10643,Q9BQS7,May function as a ferroxidase for ferrous (II) to ferric ion (III) conversion and may be involved in copper transport and homeostasi
-89,CCL27,C-C motif chemokine ligand 27,10850,Q15047,Histone methyltransferase that specifically trimethylates 'Lys-9' of histone H
-90,COPG1,coatomer protein complex subunit gamma 1,22820,Q13421,Membrane-anchored forms may play a role in cellular adhesio
-91,LIMCH1,LIM and calponin homology domains 1,22998,Q16206,May be involved in cell growt
-92,WWC1,WW and C2 domain containing 1,23286,O95754,Probable cell surface receptor that regulates oligodendroglial precursor cell migration (By similarity
-93,SF3B1,splicing factor 3b subunit 1,23451,O43927,"Chemotactic for B-lymphocytes but not for T-lymphocytes, monocytes and neutrophil"
-94,CFAP45,cilia and flagella associated protein 45,25790,Q86YL7,Mediates effects on cell migration and adhesion through its different partner
-95,AGO1,"argonaute 1, RISC catalytic component",26523,O00425,RNA-binding factor that may recruit target transcripts to cytoplasmic protein-RNA complexes (mRNPs
-96,AGO2,"argonaute 2, RISC catalytic component",27161,Q9Y4X3,Chemotactic factor that attracts skin-associated memory T-lymphocyte
-97,SETD2,SET domain containing 2,29072,Q9Y678,"The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi networ"
-98,PYCARD,PYD and CARD domain containing,29108,Q9UPQ0,Actin stress fibers-associated protein that activates non-muscle myosin II
-99,PLLP,plasmolipin,51090,Q8IX03,"Probable regulator of the Hippo/SWH (Sav/Wts/Hpo) signaling pathway, a signaling pathway that plays a pivotal role in tumor suppression by restricting proliferation and promoting apoptosi"
-100,FGD6,"FYVE, RhoGEF and PH domain containing 6",55785,O75533,Involved in pre-mRNA splicing as a component of the splicing factor SF3B complex (PubMed:27720643
+0,NAT2,N-acetyltransferase 2,10,P11245,Participates in the detoxification of a plethora of hydrazine and arylamine drugs
+1,PARP1,poly(ADP-ribose) polymerase 1,142,Q6N069,Auxillary subunit of the N-terminal acetyltransferase A (NatA) complex which displays alpha (N-terminal) acetyltransferase activity
+2,ANXA2,annexin A2,302,Q9H2H9,Functions as a sodium-dependent amino acid transporter
+3,APOA1,apolipoprotein A1,335,P09874,"Poly-ADP-ribosyltransferase that mediates poly-ADP-ribosylation of proteins and plays a key role in DNA repair (PubMed:17177976, PubMed:18172500, PubMed:19344625, PubMed:19661379, PubMed:23230272, PubMed:25043379, PubMed:26344098)"
+4,BCL2,"BCL2, apoptosis regulator",596,P07355,Calcium-regulated membrane-binding protein whose affinity for calcium is greatly enhanced by anionic phospholipids
+5,C9,complement C9,735,P02647,Participates in the reverse transport of cholesterol from tissues to the liver for excretion by promoting cholesterol efflux from tissues and by acting as a cofactor for the lecithin cholesterol acyltransferase (LCAT)
+6,CALB2,calbindin 2,794,P10415,Suppresses apoptosis in a variety of cell systems including factor-dependent lymphohematopoietic and neural cells
+7,TNFRSF8,TNF receptor superfamily member 8,943,P02748,"Constituent of the membrane attack complex (MAC) that plays a key role in the innate and adaptive immune response by forming pores in the plasma membrane of target cells (PubMed:9634479, PubMed:9212048, PubMed:26841934)"
+8,CDK6,cyclin dependent kinase 6,1021,P22676,Calretinin is a calcium-binding protein which is abundant in auditory neurons
+9,CDKN1A,cyclin dependent kinase inhibitor 1A,1026,P28908,Receptor for TNFSF8/CD30L (PubMed:8391931)
+10,CDKN2A,cyclin dependent kinase inhibitor 2A,1029,Q00534,Serine/threonine-protein kinase involved in the control of the cell cycle and differentiation; promotes G1/S transition
+11,COL12A1,collagen type XII alpha 1 chain,1303,P38936,May be involved in p53/TP53 mediated inhibition of cellular proliferation in response to DNA damage
+12,CSF1,colony stimulating factor 1,1435,P42771,Acts as a negative regulator of the proliferation of normal cells by interacting strongly with CDK4 and CDK6
+13,CTNNB1,catenin beta 1,1499,Q8N726,Capable of inducing cell cycle arrest in G1 and G2 phases
+14,DDX3X,DEAD-box helicase 3 X-linked,1654,Q99715,"Type XII collagen interacts with type I collagen-containing fibrils, the COL1 domain could be associated with the surface of the fibrils, and the COL2 and NC3 domains may be localized in the perifibrillar matrix"
+15,EGFR,epidermal growth factor receptor,1956,P09603,"Cytokine that plays an essential role in the regulation of survival, proliferation and differentiation of hematopoietic precursor cells, especially mononuclear phagocytes, such as macrophages and monocytes"
+16,EPHX1,epoxide hydrolase 1,2052,P35222,Key downstream component of the canonical Wnt signaling pathway
+17,F9,coagulation factor IX,2158,O00571,Multifunctional ATP-dependent RNA helicase
+18,EFEMP1,EGF containing fibulin extracellular matrix protein 1,2202,P00533,"Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses (PubMed:2790960, PubMed:10805725, PubMed:27153536)"
+19,FCN2,ficolin 2,2220,P07099,Biotransformation enzyme that catalyzes the hydrolysis of arene and aliphatic epoxides to less reactive and more water soluble dihydrodiols by the trans addition of water (By similarity)
+20,FGF9,fibroblast growth factor 9,2254,P00740,"Factor IX is a vitamin K-dependent plasma protein that participates in the intrinsic pathway of blood coagulation by converting factor X to its active form in the presence of Ca(2+) ions, phospholipids, and factor VIIIa"
+21,MLANA,melan-A,2315,Q12805,"Binds EGFR, the EGF receptor, inducing EGFR autophosphorylation and the activation of downstream signaling pathways"
+22,FN1,fibronectin 1,2335,Q15485,May function in innate immunity through activation of the lectin complement pathway
+23,FTH1,ferritin heavy chain 1,2495,P31371,"Plays an important role in the regulation of embryonic development, cell proliferation, cell differentiation and cell migration"
+24,GPR27,G protein-coupled receptor 27,2850,Q16655,Involved in melanosome biogenesis by ensuring the stability of GPR143
+25,GPR37,G protein-coupled receptor 37,2861,P02751,"Fibronectins bind cell surfaces and various compounds including collagen, fibrin, heparin, DNA, and actin"
+26,GSTM1,glutathione S-transferase mu 1,2944,P02794,"Stores iron in a soluble, non-toxic, readily available form"
+27,HGF,hepatocyte growth factor,3082,Q9NS67,Orphan receptor
+28,ICAM2,intercellular adhesion molecule 2,3384,O15354,Receptor for the neuroprotective and glioprotective factor prosaposin
+29,IFNG,interferon gamma,3458,P09488,Conjugation of reduced glutathione to a wide number of exogenous and endogenous hydrophobic electrophiles
+30,IL1A,interleukin 1 alpha,3552,P14210,"Potent mitogen for mature parenchymal hepatocyte cells, seems to be a hepatotrophic factor, and acts as a growth factor for a broad spectrum of tissues and cell types"
+31,IL2RA,interleukin 2 receptor subunit alpha,3559,P13598,ICAM proteins are ligands for the leukocyte adhesion protein LFA-1 (integrin alpha-L/beta-2)
+32,IL3,interleukin 3,3562,P01579,Produced by lymphocytes activated by specific antigens or mitogens
+33,IL4,interleukin 4,3565,P01583,"Produced by activated macrophages, IL-1 stimulates thymocyte proliferation by inducing IL-2 release, B-cell maturation and proliferation, and fibroblast growth factor activity"
+34,IL6,interleukin 6,3569,P01589,Receptor for interleukin-2
+35,CXCL8,C-X-C motif chemokine ligand 8,3576,P08700,"Granulocyte/macrophage colony-stimulating factors are cytokines that act in hematopoiesis by controlling the production, differentiation, and function of 2 related white cell populations of the blood, the granulocytes and the monocytes-macrophages"
+36,IL12B,interleukin 12B,3593,P05112,Participates in at least several B-cell activation processes as well as of other cell types (PubMed:3016727)
+37,ILK,integrin linked kinase,3611,P05231,Cytokine with a wide variety of biological functions
+38,KIT,KIT proto-oncogene receptor tyrosine kinase,3815,P10145,"IL-8 is a chemotactic factor that attracts neutrophils, basophils, and T-cells, but not monocytes"
+39,LTA,lymphotoxin alpha,4049,P29460,"Cytokine that can act as a growth factor for activated T and NK cells, enhance the lytic activity of NK/lymphokine-activated killer cells, and stimulate the production of IFN-gamma by resting PBMC"
+40,MCAM,melanoma cell adhesion molecule,4162,Q13418,"Receptor-proximal protein kinase regulating integrin-mediated signal transduction (PubMed:8538749, PubMed:9736715)"
+41,MDK,midkine,4192,P10721,"Tyrosine-protein kinase that acts as cell-surface receptor for the cytokine KITLG/SCF and plays an essential role in the regulation of cell survival and proliferation, hematopoiesis, stem cell maintenance, gametogenesis, mast cell development, migration and function, and in melanogenesis"
+42,MET,"MET proto-oncogene, receptor tyrosine kinase",4233,P01374,"Cytokine that in its homotrimeric form binds to TNFRSF1A/TNFR1, TNFRSF1B/TNFBR and TNFRSF14/HVEM (PubMed:9462508)"
+43,MIF,macrophage migration inhibitory factor,4282,P43121,"Plays a role in cell adhesion, and in cohesion of the endothelial monolayer at intercellular junctions in vascular tissue"
+44,CXCL9,C-X-C motif chemokine ligand 9,4283,P21741,"Secreted protein that functions as cytokine and growth factor and mediates its signal through cell-surface proteoglycan and non-proteoglycan receptors (PubMed:18469519, PubMed:12573468, PubMed:12122009, PubMed:10212223, PubMed:24458438, PubMed:15466886, PubMed:12084985, PubMed:10772929)"
+45,MUC1,"mucin 1, cell surface associated",4582,P08581,Receptor tyrosine kinase that transduces signals from the extracellular matrix into the cytoplasm by binding to hepatocyte growth factor/HGF ligand
+46,NF2,neurofibromin 2,4771,Q9NWH9,"When overexpressed, acts as a general inhibitor of transcription that eventually leads to apoptosis"
+47,NGF,nerve growth factor,4803,P03971,"This glycoprotein, produced by the Sertoli cells of the testis, causes regression of the Muellerian duct"
+48,SERPINA4,serpin family A member 4,5267,P14174,Pro-inflammatory cytokine
+49,PTPRF,"protein tyrosine phosphatase, receptor type F",5792,Q07325,"Cytokine that affects the growth, movement, or activation state of cells that participate in immune and inflammatory response"
+50,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",5894,P15941,The alpha subunit has cell adhesive properties
+51,RXRA,retinoid X receptor alpha,6256,P35240,"Probable regulator of the Hippo/SWH (Sav/Wts/Hpo) signaling pathway, a signaling pathway that plays a pivotal role in tumor suppression by restricting proliferation and promoting apoptosis"
+52,RYR2,ryanodine receptor 2,6262,P01138,"Nerve growth factor is important for the development and maintenance of the sympathetic and sensory nervous systems (PubMed:14976160, PubMed:20978020)"
+53,CLEC11A,C-type lectin domain containing 11A,6320,P29622,Inhibits human amidolytic and kininogenase activities of tissue kallikrein
+54,CCL3,C-C motif chemokine ligand 3,6348,P10586,Possible cell adhesion receptor
+55,CCL5,C-C motif chemokine ligand 5,6352,P04049,"Serine/threonine-protein kinase that acts as a regulatory link between the membrane-associated Ras GTPases and the MAPK/ERK cascade, and this critical regulatory link functions as a switch determining cell fate decisions including proliferation, differentiation, apoptosis, survival and oncogenic transformation"
+56,CCL7,C-C motif chemokine ligand 7,6354,P19793,"Receptor for retinoic acid that acts as a transcription factor (PubMed:11162439, PubMed:11915042)"
+57,CCL23,C-C motif chemokine ligand 23,6368,Q92736,Calcium channel that mediates the release of Ca(2+) from the sarcoplasmic reticulum into the cytoplasm and thereby plays a key role in triggering cardiac muscle contraction
+58,SDC1,syndecan 1,6382,Q9Y240,Promotes osteogenesis by stimulating the differentiation of mesenchymal progenitors into mature osteoblasts (PubMed:27976999)
+59,CXCL12,C-X-C motif chemokine ligand 12,6387,P10147,Monokine with inflammatory and chemokinetic properties
+60,SLC2A1,solute carrier family 2 member 1,6513,P13501,"Chemoattractant for blood monocytes, memory T-helper cells and eosinophils"
+61,SLC22A5,solute carrier family 22 member 5,6584,P80098,"Chemotactic factor that attracts monocytes and eosinophils, but not neutrophils"
+62,SMARCA2,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 2",6595,P55773,"Shows chemotactic activity for monocytes, resting T-lymphocytes, and neutrophils, but not for activated lymphocytes"
+63,SOD2,superoxide dismutase 2,6648,P18827,Cell surface proteoglycan that bears both heparan sulfate and chondroitin sulfate and that links the cytoskeleton to the interstitial matrix
+64,TF,transferrin,7018,P48061,Chemoattractant active on T-lymphocytes and monocytes but not neutrophils
+65,TFDP2,transcription factor Dp-2,7029,P11166,"Facilitative glucose transporter, which is responsible for constitutive or basal glucose uptake (PubMed:18245775, PubMed:19449892, PubMed:25982116, PubMed:27078104, PubMed:10227690)"
+66,TGFB2,transforming growth factor beta 2,7042,O76082,"Sodium-ion dependent, high affinity carnitine transporter"
+67,TP53,tumor protein p53,7157,P51531,Involved in transcriptional activation and repression of select genes by chromatin remodeling (alteration of DNA-nucleosome topology)
+68,TXN,thioredoxin,7295,P04179,Destroys superoxide anion radicals which are normally produced within the cells and which are toxic to biological systems
+69,VIM,vimentin,7431,P02787,"Transferrins are iron binding transport proteins which can bind two Fe(3+) ions in association with the binding of an anion, usually bicarbonate"
+70,WNT3,Wnt family member 3,7473,Q14188,Can stimulate E2F-dependent transcription
+71,WT1,Wilms tumor 1,7490,P61812,"Transforming growth factor beta-2 proprotein: Precursor of the Latency-associated peptide (LAP) and Transforming growth factor beta-2 (TGF-beta-2) chains, which constitute the regulatory and active subunit of TGF-beta-2, respectively"
+72,BAP1,BRCA1 associated protein 1,8314,P04637,Acts as a tumor suppressor in many tumor types; induces growth arrest or apoptosis depending on the physiological circumstances and cell type
+73,FGF18,fibroblast growth factor 18,8817,P10599,Participates in various redox reactions through the reversible oxidation of its active center dithiol to a disulfide and catalyzes dithiol-disulfide exchange reactions
+74,BCL10,B cell CLL/lymphoma 10,8915,P08670,"Vimentins are class-III intermediate filaments found in various non-epithelial cells, especially mesenchymal cells"
+75,MTMR4,myotubularin related protein 4,9110,P56703,Ligand for members of the frizzled family of seven transmembrane receptors (Probable)
+76,CCNE2,cyclin E2,9134,P19544,Transcription factor that plays an important role in cellular development and cell survival (PubMed:7862533)
+77,OSMR,oncostatin M receptor,9180,Q92560,"Deubiquitinating enzyme that plays a key role in chromatin by mediating deubiquitination of histone H2A and HCFC1 (PubMed:12485996, PubMed:18757409, PubMed:20436459, PubMed:25451922)"
+78,ADAMTS2,ADAM metallopeptidase with thrombospondin type 1 motif 2,9509,Q96QZ7,May play a role as scaffolding protein at cell-cell junctions
+79,ULK2,unc-51 like autophagy activating kinase 2,9706,Q99496,"E3 ubiquitin-protein ligase that mediates monoubiquitination of 'Lys-119' of histone H2A (H2AK119Ub), thereby playing a central role in histone code and gene regulation (PubMed:15386022, PubMed:16359901, PubMed:25519132, PubMed:21772249, PubMed:25355358, PubMed:26151332)"
+80,HDAC4,histone deacetylase 4,9759,O76093,"Plays an important role in the regulation of cell proliferation, cell differentiation and cell migration"
+81,HEPH,hephaestin,9843,O95999,Involved in adaptive immune response (PubMed:25365219)
+82,SETDB1,SET domain bifurcated 1,9869,Q9NYA4,"Dephosphorylates proteins phosphorylated on Ser, Thr, and Tyr residues and low molecular weight phosphatase substrate para-nitrophenylphosphate"
+83,MSLN,mesothelin,10232,O96020,Essential for the control of the cell cycle at the late G1 and early S phase
+84,ENOX2,ecto-NOX disulfide-thiol exchanger 2,10495,Q99650,Associates with IL31RA to form the IL31 receptor
+85,SEMA4F,ssemaphorin 4F,10505,O95450,Cleaves the propeptides of type I and II collagen prior to fibril assembly (By similarity)
+86,CXCL13,C-X-C motif chemokine ligand 13,10563,Q8IYT8,Serine/threonine-protein kinase involved in autophagy in response to starvation
+87,PDPN,podoplanin,10630,P56524,"Responsible for the deacetylation of lysine residues on the N-terminal part of the core histones (H2A, H2B, H3 and H4)"
+88,IGF2BP3,insulin like growth factor 2 mRNA binding protein 3,10643,Q9BQS7,May function as a ferroxidase for ferrous (II) to ferric ion (III) conversion and may be involved in copper transport and homeostasis
+89,CCL27,C-C motif chemokine ligand 27,10850,Q15047,Histone methyltransferase that specifically trimethylates 'Lys-9' of histone H3
+90,COPG1,coatomer protein complex subunit gamma 1,22820,Q13421,Membrane-anchored forms may play a role in cellular adhesion
+91,LIMCH1,LIM and calponin homology domains 1,22998,Q16206,May be involved in cell growth
+92,WWC1,WW and C2 domain containing 1,23286,O95754,Probable cell surface receptor that regulates oligodendroglial precursor cell migration (By similarity)
+93,SF3B1,splicing factor 3b subunit 1,23451,O43927,"Chemotactic for B-lymphocytes but not for T-lymphocytes, monocytes and neutrophils"
+94,CFAP45,cilia and flagella associated protein 45,25790,Q86YL7,Mediates effects on cell migration and adhesion through its different partners
+95,AGO1,"argonaute 1, RISC catalytic component",26523,O00425,RNA-binding factor that may recruit target transcripts to cytoplasmic protein-RNA complexes (mRNPs)
+96,AGO2,"argonaute 2, RISC catalytic component",27161,Q9Y4X3,Chemotactic factor that attracts skin-associated memory T-lymphocytes
+97,SETD2,SET domain containing 2,29072,Q9Y678,"The coatomer is a cytosolic protein complex that binds to dilysine motifs and reversibly associates with Golgi non-clathrin-coated vesicles, which further mediate biosynthetic protein transport from the ER, via the Golgi up to the trans Golgi network"
+98,PYCARD,PYD and CARD domain containing,29108,Q9UPQ0,Actin stress fibers-associated protein that activates non-muscle myosin IIa
+99,PLLP,plasmolipin,51090,Q8IX03,"Probable regulator of the Hippo/SWH (Sav/Wts/Hpo) signaling pathway, a signaling pathway that plays a pivotal role in tumor suppression by restricting proliferation and promoting apoptosis"
+100,FGD6,"FYVE, RhoGEF and PH domain containing 6",55785,O75533,Involved in pre-mRNA splicing as a component of the splicing factor SF3B complex (PubMed:27720643)
 101,TBL1XR1,transducin beta like 1 X-linked receptor 1,79718,Q9UL16,No description available for this gene
 102,TRAF7,TNF receptor associated factor 7,84231,Q9UL18,Required for RNA-mediated gene silencing (RNAi)
 103,DDX51,DEAD-box helicase 51,317781,Q9UKV8,Required for RNA-mediated gene silencing (RNAi) by the RNA-induced silencing complex (RISC)
