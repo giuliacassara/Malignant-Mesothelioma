@@ -1,0 +1,15 @@
+Input,Match type,Approved symbol,Approved name,HGNC ID,Location
+HIST1H4A,Previous symbol,H4C1,H4 clustered histone 1,HGNC:4781,6p22.2
+HIST1H4B,Previous symbol,H4C2,H4 clustered histone 2,HGNC:4789,6p22.2
+HIST1H4C,Previous symbol,H4C3,H4 clustered histone 3,HGNC:4787,6p22.2
+HIST1H4D,Previous symbol,H4C4,H4 clustered histone 4,HGNC:4782,6p22.2
+HIST1H4E,Previous symbol,H4C5,H4 clustered histone 5,HGNC:4790,6p22.2
+HIST1H4F,Previous symbol,H4C6,H4 clustered histone 6,HGNC:4783,6p22.2
+HIST1H4H,Previous symbol,H4C8,H4 clustered histone 8,HGNC:4788,6p22.2
+HIST1H4I,Previous symbol,H4C9,H4 clustered histone 9,HGNC:4793,6p22.1
+HIST1H4J,Previous symbol,H4C11,H4 clustered histone 11,HGNC:4785,6p22.1
+HIST1H4K,Previous symbol,H4C12,H4 clustered histone 12,HGNC:4784,6p22.1
+HIST1H4L,Previous symbol,H4C13,H4 clustered histone 13,HGNC:4791,6p22.1
+HIST2H4A,Previous symbol,H4C14,H4 clustered histone 14,HGNC:4794,1q21.2
+HIST2H4B,Previous symbol,H4C15,H4 clustered histone 15,HGNC:29607,1q21.2
+HIST4H4,Previous symbol,H4-16,H4 histone 16,HGNC:20510,12p12.3

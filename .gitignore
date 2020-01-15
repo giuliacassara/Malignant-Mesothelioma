@@ -2,6 +2,7 @@
 uniprot
 dataset
 disgenet
+enrichr
 ipynb_checkpoints
 # Ignore all archives
 *.gz
